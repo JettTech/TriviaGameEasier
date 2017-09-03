@@ -1,0 +1,2 @@
+# TriviaGameEasier
+DefautTriviaGame
